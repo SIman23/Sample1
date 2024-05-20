@@ -27,6 +27,6 @@ Hi there!
 1.
 2.
 
-## WEB ссылки
+## WEB links
 
 Teкст [пример ссылки](http.example.com "Всплывающая подсказка")
